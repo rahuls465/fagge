@@ -7,4 +7,5 @@ print("sum = ",a+b)
 
 print ("three numbers  can now added ")
 k = input("enter number 3 now")
+c = int(k)
 print ("new sum is ", a+b+c)
