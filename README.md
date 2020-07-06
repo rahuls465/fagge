@@ -1,1 +1,2 @@
 # fegge
+discord bot
